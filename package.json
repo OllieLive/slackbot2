@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ItzikFekete/slackbot2/issues"
   },
-  "homepage": "https://github.com/ItzikFekete/slackbot2#readme"
+  "homepage": "https://github.com/ItzikFekete/slackbot2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
